@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react';
 
-import Cell from './cell';
+// import Cell from './cell';
 
 export default class TicTacToe extends React.Component {
 	constructor() {
@@ -10,6 +10,6 @@ export default class TicTacToe extends React.Component {
 		super(...arguments);
 	}
 	render() {
-
+		return <>Jsmrcaga tic tac toe</>;
 	}
 }
