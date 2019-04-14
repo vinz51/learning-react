@@ -1,9 +1,10 @@
 import React from 'react';
-
-const App = ({}) => (
+import TTT from '../projects/tictactoe/vinz51/';
+const App = () => (
 	<div>
 		<h1>Welcome on the project</h1>
 		<p>THis project is in progress</p>
+    <TTT />
 	</div>
 );
 
