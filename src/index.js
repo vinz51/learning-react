@@ -1,8 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-
-// Changez le require ici pour voir les projects des autres ;)
-import App from './tictactoe/jo-colina';
+import App from "components/app";
 
 ReactDOM.render(<App />, document.getElementById('root'));
 
